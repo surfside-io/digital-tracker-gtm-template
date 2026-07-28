@@ -15,7 +15,7 @@
 homepage: "https://www.surfside.io"
 documentation: "https://docs.surfside.io/"
 versions:
-   - sha: e60d0f6540cb54ef3b700a03025c777f1077b5b3
+   - sha: 4857766185696c43be39580f8ab5b15307ceb20f
     changeNotes: Updated documentation, README, and license for Surfside.
    - sha: 9fe0ac0e807509cb12bbced8d61b5c1dcfddf2eb
     changeNotes: Initial release.
