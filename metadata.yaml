@@ -15,7 +15,7 @@
 homepage: "https://www.surfside.io"
 documentation: "https://docs.surfside.io/"
 versions:
-  - sha: PENDING_NEW_COMMIT_SHA
+  - sha: 208e2b29c2cdc30a5b517c3e2f39f4f5872cb5b1
     changeNotes: Fix YAML syntax, permissions, and brand icon size.
   - sha: 4857766185696c43be39580f8ab5b15307ceb20f
     changeNotes: "Updated documentation, README, and license for Surfside."
